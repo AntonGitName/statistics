@@ -30,6 +30,4 @@ def printStatistics(x):
 	
 	print("TruncatedMean[x] = {0}".format(truncatedMean(x, 2)))
 	
-printStatistics([0, 2, 1, 4, 1, 1, 0, 0, 0, 5, 1, 1, 1, 2, 1, 0, 2, 1, 4, 1])
-
-WinzorMean(range(10),0)
+printStatistics([0.0, 2.0, 1.0, 4.0, 1.0, 1.0, 0.0, 0.0, 0.0, 5.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.0, 2.0, 1.0, 4.0, 1.0])
